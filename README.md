@@ -20,6 +20,6 @@
 - run the following command inside the terminal:
 
   ```bash
-  cd fire_detection
+  cd Fire_alarm
   python predict.py model="best.pt" source=0 show=True
   ```
