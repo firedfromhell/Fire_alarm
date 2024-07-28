@@ -7,7 +7,7 @@
 
 - clone the repository using the following command:
   ```bash
-  git clone https://github.com/jagjeet-singh-23/fire_detection.git
+  git clone https://github.com/firedfromhell/Fire_alarm.git
   ```
 - install the required libraries using the following command:
 
